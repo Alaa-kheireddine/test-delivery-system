@@ -7,5 +7,5 @@ Route::get('/', function () {
 });
 
 Route::get('/alaa', function(){
-    return "test by alaa";
+    return "test by alaa updated !!!!!!";
 });
