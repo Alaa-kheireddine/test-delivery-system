@@ -7,9 +7,5 @@ Route::get('/', function () {
 });
 
 Route::get('/alaa', function(){
-    return "test by alaa";
-});
-
-Route::get('/mimi',function(){
-    return 'hii';
+    return "test by alaa updated !!!!!!";
 });
