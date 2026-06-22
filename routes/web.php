@@ -6,6 +6,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/mimi',function(){
-    return 'hii';
+Route::get('/alaa', function(){
+    return "test by alaa updated !!!!!!";
 });
